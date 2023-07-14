@@ -53,7 +53,7 @@ En esta sección se presentan los elementos de diseño utilizados en el proyecto
 - #### Vista principal Administrador:
 ![Protitopo4](src/assets/prototipo4.png)
 
-Para ver todas las visas de diseños mas detallados, consulta el [enlace](https://www.figma.com/file/quDom3Ke8O8h7obshj9wfW/BurgerClient?type=design&node-id=0-1&mode=design&t=DyfQMHUD65OSPXxk-0)
+Para ver todas las vistas de diseños mas detallados, consulta el [enlace](https://www.figma.com/file/quDom3Ke8O8h7obshj9wfW/BurgerClient?type=design&node-id=0-1&mode=design&t=DyfQMHUD65OSPXxk-0)
 
 
 ## 4. Despliegue
@@ -70,6 +70,8 @@ Para ingresar a la aplicación web, utilizarla y verificar su funcionalidad, ing
 | Administrador | grace.hopper@systers.xyz  | 123456     |
 | Mesero        | bestmesero@systers.xyz    | 123456     |
 | Chef          | mrchefsin@systers.xyz     | 123456     |
+
+Para ver la Api desplegada clic [aquí](https://burger-queen-api-mock-production-b29d.up.railway.app/).
 
 
 ## 5. Historias de usuario
